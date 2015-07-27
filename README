@@ -1,5 +1,11 @@
 ====== README ======
 Section about the project.
 
+===== Section 1 =====
+I'm going to make a whole bunch of commits.
+
+===== Section 2 =====
+Some other section I added later, will create a new commit for, but I'd like to push to the remote repository with a single commit so I'll try an interactive rebase before.
+
 ===== FOOTER =====
 This section was added by someone else.
